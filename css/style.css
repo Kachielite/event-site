@@ -185,7 +185,7 @@
             
             .sec2 {
                 position: relative;
-                background: url("/event-site/images/banner2.webp");
+                background: url('/event-site/images/banner2.webp');
                 background-size: cover;
                 height: 100vh;
             }
@@ -266,7 +266,7 @@
             .contact {
                 position: relative;
                 padding: 100px 0px;
-                background: url("/event-site/images/contact2.jpg");
+                background: url('/event-site/images/contact2.jpg');
                 background-size: cover;
                 min-height: 100vh;
             }
